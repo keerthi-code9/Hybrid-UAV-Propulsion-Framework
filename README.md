@@ -13,7 +13,7 @@ It also includes a professional Streamlit dashboard for interactive mission simu
 |------|
 | Gaurav Shivakumar | 
 | Keerthana Bhat | 
-| Shraddha  | 
+| Shraddha R K | 
 
 ## Install
 
